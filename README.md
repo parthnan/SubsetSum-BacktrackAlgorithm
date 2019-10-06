@@ -7,11 +7,11 @@ The Algorithm stood second fastest in the organized Intra-University competition
 
 An Example run is as below, Number of terms to find N=10 and 100, takes zero time.
 
-![alt text](https://raw.githubusercontent.com/parthnan/SubsetSum-BacktrackAlgorithm/master/test.png)
+![alt text](https://raw.githubusercontent.com/parthnan/SubsetSum-BacktrackAlgorithm/master/test.png){:height="60%" width="60%"}
 
 Number of terms to find N=10,000,000?? Now that's something! Takes under 3 seconds :
 
-![alt text](https://raw.githubusercontent.com/parthnan/SubsetSum-BacktrackAlgorithm/master/tenmillion.png)
+![alt text](https://raw.githubusercontent.com/parthnan/SubsetSum-BacktrackAlgorithm/master/tenmillion.png){:height="60%" width="60%"}
 
 The graph of time taken vs number of terms N was linear, as below:
 
