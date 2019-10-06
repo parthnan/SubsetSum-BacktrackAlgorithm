@@ -1,5 +1,5 @@
 # SubsetSum-BacktrackAlgorithm
-Solving the popular NP problem, The Subset Sum Problem, with a Amortized O(n) algorithm based on Backtracking. Literally takes 0.01sec to find sums 10000+ terms long!
+Solving the popular NP problem, The Subset Sum Problem, with a Amortized O(n) algorithm based on Recursive Backtracking. Literally takes 0.01sec to find sums 10000+ terms long!
 
 Problem Statement : Find a set of N numbers from 1 to 1,000,000 that sum up to a random number X (1,000,000 < X < N×1,000,000).
 
